@@ -1,1 +1,2 @@
 # JCircle
+![pic](pic.png)
